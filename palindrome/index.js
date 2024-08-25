@@ -13,5 +13,5 @@ function check(){
     }else {
         alert("is not a palindrome sydrom")
     }
-
+    input.value = ""
 }
